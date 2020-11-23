@@ -4,10 +4,10 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby starter ecommerce',
-    author: 'Parminder Sanghera',
-    description: 'A starter e-commerce site made using Gatsby.',
-    siteUrl: 'https://parmsang.github.io/gatsby-starter-ecommerce/',
+    title: 'Easy Shop UK/TW',
+    author: 'Cameron Luo',
+    description: 'ECommerce Website',
+    siteUrl: 'https://github.com/camer0nluo/easyshopuktw/',
   },
   pathPrefix: '/gatsby-starter-ecommerce',
   plugins: [
